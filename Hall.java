@@ -1,4 +1,4 @@
-public class Hall{
+public class Hall {
 
 	private int seatsAmount;
 	private String movieName;
